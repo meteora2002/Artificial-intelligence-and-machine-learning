@@ -1,0 +1,6 @@
+from langdetect import detect
+  
+  
+# Specifying the language for
+# detection
+print(detect("football is a beautiful game"))
